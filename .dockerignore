@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+!.env.example
+vendor
+node_modules
+.codebase-memory
+.phpunit.cache
+database/*.sqlite*
+storage/logs/*
+storage/framework/cache/*
+bootstrap/cache/*.php
+ops/.mysql-backup
